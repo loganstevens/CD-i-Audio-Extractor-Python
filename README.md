@@ -153,8 +153,8 @@ Found 2 audio channel(s):
   File 1, Channel 1 | coding=0x7f | 77.8 MB
 
 Extracting and decoding...
-  ✓ file1_ch0.wav
-  ✓ file1_ch1.wav
+  SUCCESS: file1_ch0.wav
+  SUCCESS: file1_ch1.wav
 
 Done! Output in: Atlantis The Last Resort (CD-i)_audio/
 ```
